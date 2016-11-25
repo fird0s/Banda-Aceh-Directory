@@ -7,4 +7,4 @@ This is just simple project i have been creating for [Microsoft Student Partnert
 which held by Microsoft. MSP program is a program that developed by Microsoft for university student to engage the student to learn new technology espesially Microsoft 
 Technology. 
 <br><br>
-The Project that i have been made using PHP and MySQL. for Front-end i use Leaflet.js plugin to show map and markers. 
+The project that i have been made using PHP and MySQL. For front-end i use Leaflet.js plugin to show map and markers. [you can visit the project it here](http://bandadirectory.azurewebsites.net/).
